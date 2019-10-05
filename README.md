@@ -9,7 +9,7 @@ Instashell is an Shell Script to perform multi-threaded brute force attack again
 ## Legal disclaimer:
 Usage of InstaShell for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![insta](https://i.ibb.co/X3wkL3h/1441-02-06-11-12-52.png)
+![insta](https://i.ibb.co/bzdZrTQ/image.png)
 
 ### Features
 - Multi-thread (400 pass/min, 20 threads)
